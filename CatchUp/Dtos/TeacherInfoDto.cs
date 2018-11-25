@@ -3,9 +3,9 @@ using CatchUp.Enums;
 
 namespace CatchUp.Dtos
 {
-    public class TeacherInfo
+    public class TeacherInfoDto
     {
-        public TeacherInfo()
+        public TeacherInfoDto()
         {
             Subjects = new List<Subject>();
         }
